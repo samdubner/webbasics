@@ -1,0 +1,33 @@
+/* classes use a period, and ids use a # */
+body {
+    background-color: gray;
+}
+
+p {
+    background-color: yellow;
+}
+
+.text {
+    color: red;
+    padding-left: 50px;
+}
+
+#center {
+    text-align: center;
+}
+
+#box {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    /* margin adds space on the outside */
+    /* padding adds space on the inside */
+    padding-top: 100px;
+}
+
+#box-text {
+    /* this background color will overwrite the one from above */
+    background-color: black;
+    text-align: center;
+    color: white;
+}
