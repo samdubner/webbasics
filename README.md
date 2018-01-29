@@ -1,2 +1,5 @@
-# webbasics
-Example code for what we did in class divided into folders by date
+## webbasics
+#Example code
+in `example` folder and organized by date
+#Documentation
+in `docs` folder and ordered into `html`, `css`, `javascript`, and `server (node)`
