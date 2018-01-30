@@ -55,6 +55,7 @@ Misc.:
 <link />: used for CSS files outside HTML file (<link href="some css file" ref="stylesheet" type="text/css" />)
 <!-- -->: HTML comment(not rendered nor looked at)
 <iframe></iframe>: displays HTML site at href attribute
+<navbar></navbar>: no real difference but used for navigation
 
 Styling & Scripting Tags:
 <style></style>: Used for CSS in HTML file
