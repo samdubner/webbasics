@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Index</title>
+        <link rel="stylesheet" type="text/css" href="index2.css" />
+    </head>
+
+    <body>
+        <h1 id="title">This text is larger</h1>
+        <p>Your text goes in here</p>
+        <p class="text">Your text goes in here</p>
+        <p class="text">Your text goes in here</p>
+        <p class="text" id="center">Your text goes in here</p>
+        <p class="text">Your text goes in here</p>
+        <p class="text">Your text goes in here</p>
+
+        <ul>
+            <li>I am first</li>
+            <li>I am second</li>
+        </ul>
+
+        <ol>
+            <li>tomato</li>
+            <li>sushi</li>
+        </ol>
+
+        <a href="https://www.google.com">Click Me!</a>
+    
+        <br>
+
+        <img src="https://img.grouponcdn.com/deal/5nqMiaVPQsLESRWCmMxPNQ/shutterstock_124581196-1500x900.jpg/v1/c700x420.jpg"/>
+        
+        <br>
+
+        <div>
+            <input type="text" placeholder="hello"/>
+            <input type="button" value="Hi"/>
+        </div>
+
+        <div id="box">
+            <p id="box-text">Hello There</p>
+        </div>
+
+    </body>
+    <script src="./index.js"></script><!-- Loaded JS file -->
+    <script
+        src="http://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script><!-- jQuery -->
+    <script>
+        $('#box').on('click', function(event){
+            $(this).css('background-color', // chnage color
+                $(this).css('background-color')=='rgb(255, 255, 255)'?'black':'white'// toggle black/white in order to "toggle"
+            );
+            console.log( $(this).css('background-color'));
+        });
+    </script><!-- inline script (only for short programs specific to this site)
+                  done only to make index.js executably by node (ensure that jQuery is included) -->
+</html>
