@@ -1,5 +1,4 @@
-## webbasics
 # Example code
-in `example` folder and organized by date
+Example code can be found in the `example` folder and is organized by date
 # Documentation
-in `docs` folder and ordered into `html`, `css`, `javascript`, and `server (node)`
+Documentation can be found in the `docs` folder and is ordered into `html`, `css`, `javascript`, and `server (node)`
