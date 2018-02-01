@@ -1,4 +1,4 @@
-- [Basic CSS file](#basic-CSS-file)
+- [Basic CSS file](#basic-css-file)
 # Basic CSS file
 ```css
 body {
