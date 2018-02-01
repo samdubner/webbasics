@@ -6,7 +6,7 @@
 - [Content Dividers](#content-dividers)
 - [Text Modifiers](#text-modifiers)
 - [Misc.](#misc)
-- [Styling & Scripting Tags](#styling-scripting-tags)
+- [Styling & Scripting Tags](#styling--scripting-tags)
 # Basic HTML site
 ```html
 <!DOCTYPE html>
