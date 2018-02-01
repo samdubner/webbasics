@@ -12,16 +12,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-            Title
-        </title>
         <meta charset="utf-8">
-        Other Data
+        <title>Title</title>
+        <style>
+            <!-- css here -->
+        </style>
+        <!-- Other Data -->
     </head>
     <body>
         Visual Elements
     </body>
-    (Scripts and Styles)
+    <script>
+        <!-- javascript here -->
+    </script>
 </html>
 ```
 
