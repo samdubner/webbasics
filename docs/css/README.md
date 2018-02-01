@@ -1,4 +1,5 @@
 - [Basic CSS file](#basic-css-file)
+- [Colors](#colors)
 # Basic CSS file
 ```css
 body {
@@ -16,3 +17,5 @@ body {
   color: #ff0000;
 }
 ```
+
+# Colors
