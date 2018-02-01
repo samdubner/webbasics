@@ -19,3 +19,7 @@ body {
 ```
 
 # Colors
+- background-color
+  changes the color behind the element
+- color
+  changes the color of the element itself
