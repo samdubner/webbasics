@@ -15,7 +15,6 @@
         <meta charset="utf-8">
         <title>Title</title>
         <style>
-            <!-- css here -->
         </style>
         <!-- Other Data -->
     </head>
