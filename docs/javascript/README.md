@@ -138,8 +138,8 @@ JavaScript has some fun little quirks that you should know if you are going to b
 
 ```js
 //these lines are both the same
-int i = 0
-int i = 0;
+var i = 0
+var i = 0;
 ```
 
 by default the `==` operator doesn't compare the types of variable so you can get interesting results.
